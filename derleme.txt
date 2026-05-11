@@ -1,0 +1,12 @@
+# CMake ile
+mkdir build && cd build
+cmake .. && make
+
+# veya doğrudan g++ ile
+g++ -std=c++17 -pthread -O2 main.cpp Server.cpp ClientHandler.cpp -o tcp_server
+
+./tcp_server
+
+bash'da ayrı bir client ile şu şekilde test edilebilri;
+
+$ nc localhost 9000

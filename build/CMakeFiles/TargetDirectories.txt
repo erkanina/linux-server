@@ -1,0 +1,3 @@
+/home/erkanina/advanced-server2/build/CMakeFiles/rebuild_cache.dir
+/home/erkanina/advanced-server2/build/CMakeFiles/edit_cache.dir
+/home/erkanina/advanced-server2/build/CMakeFiles/tcp_server.dir

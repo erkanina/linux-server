@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/erkanina/advanced-server2/build",
+  "command": "/usr/bin/c++    -g   -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/tcp_server.dir/main.cpp.o -c /home/erkanina/advanced-server2/main.cpp",
+  "file": "/home/erkanina/advanced-server2/main.cpp"
+},
+{
+  "directory": "/home/erkanina/advanced-server2/build",
+  "command": "/usr/bin/c++    -g   -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/tcp_server.dir/Server.cpp.o -c /home/erkanina/advanced-server2/Server.cpp",
+  "file": "/home/erkanina/advanced-server2/Server.cpp"
+},
+{
+  "directory": "/home/erkanina/advanced-server2/build",
+  "command": "/usr/bin/c++    -g   -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/tcp_server.dir/ClientHandler.cpp.o -c /home/erkanina/advanced-server2/ClientHandler.cpp",
+  "file": "/home/erkanina/advanced-server2/ClientHandler.cpp"
+}
+]
