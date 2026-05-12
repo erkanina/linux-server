@@ -6,6 +6,8 @@
 #include <thread>
 #include <chrono>
 
+// test satırı
+
 static std::atomic<bool> g_quit{ false };
 static Server*           g_server{ nullptr };
 
