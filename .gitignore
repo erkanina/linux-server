@@ -1,0 +1,56 @@
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# CMake
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# g++ / Make
+*.d
+*.i
+*.s
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.ncb
+*.sdf
+Debug/
+Release/
+x64/
+x86/
+
+# VS Code
+.vscode/
+
+# Hata ayıklama
+*.pdb
+*.ilk
+*.map
+*.dSYM/
+
+# Geçici dosyalar
+*.tmp
+*.temp
+*.log
+*.swp
+*~

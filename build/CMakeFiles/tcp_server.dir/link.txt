@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/tcp_server.dir/main.cpp.o CMakeFiles/tcp_server.dir/Server.cpp.o CMakeFiles/tcp_server.dir/ClientHandler.cpp.o  -o tcp_server  -lpthread 
